@@ -10,6 +10,7 @@
 
 - Flowbase Chrome Extension
 - Finsweet Extension for Webflow
+- HeadingsMap
 
 ## Component Sites
 
